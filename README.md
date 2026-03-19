@@ -19,10 +19,10 @@ Repo ini berisi kumpulan workflow **n8n** yang saya buat untuk berbagai kebutuha
 * ✅ Integrasi pada telegram bot
 
 **Preview Workflow:**
-<img width="856" height="726" alt="Image" src="https://github.com/user-attachments/assets/52d88fac-6cad-461d-a08e-ce7d0027adf6" />
+<img width="942" height="262" alt="Image" src="https://github.com/user-attachments/assets/576268d2-f18c-4ce8-b4be-7ef4ee5b4984" />
 
 **Contoh Output:**
-<img width="942" height="262" alt="Image" src="https://github.com/user-attachments/assets/576268d2-f18c-4ce8-b4be-7ef4ee5b4984" />
+<img width="856" height="726" alt="Image" src="https://github.com/user-attachments/assets/52d88fac-6cad-461d-a08e-ce7d0027adf6" />
 
 ---
 
