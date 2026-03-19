@@ -1,6 +1,6 @@
 # 🚀 N8N Workflow Collection
 
-Repo ini berisi kumpulan workflow **n8n** yang gw buat untuk berbagai kebutuhan automation (AI, Telegram bot, finance, dll).
+Repo ini berisi kumpulan workflow **n8n** yang saya buat untuk berbagai kebutuhan automation (AI, Telegram bot, finance, dll).
 
 ---
 
@@ -19,10 +19,10 @@ Repo ini berisi kumpulan workflow **n8n** yang gw buat untuk berbagai kebutuhan 
 * ✅ Integrasi pada telegram bot
 
 **Preview Workflow:**
-![Workflow](./docs/1-workflow.png)
+<img width="856" height="726" alt="Image" src="https://github.com/user-attachments/assets/52d88fac-6cad-461d-a08e-ce7d0027adf6" />
 
 **Contoh Output:**
-![Output](./docs/1-output.png)
+<img width="942" height="262" alt="Image" src="https://github.com/user-attachments/assets/576268d2-f18c-4ce8-b4be-7ef4ee5b4984" />
 
 ---
 
